@@ -22,11 +22,6 @@
     "types": [
       "node"
     ],
-    "paths": {
-      "@shared/*": [
-        "./shared/*"
-      ]
-    }
   },
   "include": [
     "next-env.d.ts",
